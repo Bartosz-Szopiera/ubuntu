@@ -1,0 +1,1 @@
+<schema>org.gnome.desktop.wm.keybindings<actions><cmd>cycle-windows-backward<keys>['<Shift><Alt>Escape']</keys></cmd><cmd>minimize<keys>['<Super>h']</keys></cmd><cmd>move-to-workspace-7<keys>@as
