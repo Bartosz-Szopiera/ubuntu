@@ -1,0 +1,9 @@
+Keys output format:
+
+schemas=(schema1 schema2 ...)
+
+<schema>schema1</schema><actionkey>action keys&action keys</actionkey>$schema2$@action keys&action keys@
+
+How to parse back?
+
+
